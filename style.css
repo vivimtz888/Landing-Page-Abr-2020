@@ -1,0 +1,12 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+.background{
+  background-image: url("https://static-spa-homepage.uniplaces.com/offers/274921-Lisbon-Portugal.jpg");
+  width:100vw;
+  height:100vh;
+  background-size: cover;
+  background-position: center;
+}
