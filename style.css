@@ -40,6 +40,9 @@ nav > div > a {
   }
 
   nav > div > button {
-    padding: 0-8em 1.7em;
+    padding: 0.8em 1.7em;
     color: rgb(77, 92, 100);
+    border:1px white;
+    border-radius: 3px;
+    font-size: 0.85em;
   }
